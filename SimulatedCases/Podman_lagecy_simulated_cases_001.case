@@ -1,0 +1,64 @@
+{
+    "cases": [
+        {
+            "creatorUserId": null,
+            "events": [
+                {
+                    "_fields": {
+                        "baseEventIds": [],
+                        "parentEventId": 0,
+                        "deviceEventClassId": "Podman_lagecy_simulated_cases_001",
+                        "startTime": "1773670958998",
+                        "endTime": "1773670958998",
+                        "deviceProduct": "Podman_lagecy_simulated_cases_001"
+                    },
+                    "_rawDataFields": {
+                        "podman_lagecy_simulated_cases_001": "Podman_lagecy_simulated_cases_001",
+                        "deviceEventClassId": "Podman_lagecy_simulated_cases_001",
+                        "deviceProduct": "Podman_lagecy_simulated_cases_001",
+                        "name": "Podman_lagecy_simulated_cases_001"
+                    },
+                    "environment": null,
+                    "sourceSystemName": null,
+                    "extensions": []
+                }
+            ],
+            "environment": null,
+            "sourceSystemName": "Podman_lagecy_simulated_cases_001",
+            "ticketId": null,
+            "description": null,
+            "displayId": null,
+            "reason": null,
+            "name": "Podman_lagecy_simulated_cases_001",
+            "deviceVendor": "Podman_lagecy_simulated_cases_001",
+            "deviceProduct": "Podman_lagecy_simulated_cases_001",
+            "startTime": 1773670958998,
+            "endTime": 1773670958998,
+            "type": 0,
+            "priority": -1,
+            "ruleGenerator": "Podman_lagecy_simulated_cases_001",
+            "sourceGroupingIdentifier": null,
+            "playbookTriggerKeywords": [],
+            "extensions": [
+                {
+                    "key": "Podman_lagecy_simulated_cases_001",
+                    "value": "Podman_lagecy_simulated_cases_001"
+                }
+            ],
+            "attachments": null,
+            "isTrimmed": false,
+            "dataType": 1,
+            "sourceType": 1,
+            "sourceSystemUrl": null,
+            "sourceRuleIdentifier": null,
+            "siemAlertId": null,
+            "updatedFields": [],
+            "alertUpdateSupported": false,
+            "alertMetadata": {},
+            "dataAccessScope": null
+        }
+    ],
+    "type": 0,
+    "connectorIdentifier": null,
+    "debugOutput": null
+}
