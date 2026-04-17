@@ -1,0 +1,89 @@
+[
+    {
+        "id": 1,
+        "valueType": 2,
+        "value": "",
+        "slaPeriodType": 0,
+        "slaPeriod": 10.0,
+        "criticalPeriodType": 0,
+        "criticalPeriod": 5.0,
+        "environments": [
+            "podman-upgraded-legacy-002",
+            "podman-upgraded-legacy-001",
+            "Default Environment"
+        ],
+        "alertType": 0,
+        "values": [
+            ""
+        ]
+    },
+    {
+        "id": 2,
+        "valueType": 3,
+        "value": "[\"Improvement\",\"Research\",\"Incident\",\"Investigation\",\"Assessment\",\"Triage\"]",
+        "slaPeriodType": 1,
+        "slaPeriod": 10.0,
+        "criticalPeriodType": 1,
+        "criticalPeriod": 9.0,
+        "environments": [
+            "podman-upgraded-legacy-002"
+        ],
+        "alertType": null,
+        "values": [
+            "Improvement",
+            "Research",
+            "Incident",
+            "Investigation",
+            "Assessment",
+            "Triage"
+        ]
+    },
+    {
+        "id": 3,
+        "valueType": 4,
+        "value": "[\"Critical\"]",
+        "slaPeriodType": 2,
+        "slaPeriod": 10.0,
+        "criticalPeriodType": 2,
+        "criticalPeriod": 1.0,
+        "environments": [
+            "Default Environment"
+        ],
+        "alertType": null,
+        "values": [
+            "Critical"
+        ]
+    },
+    {
+        "id": 4,
+        "valueType": 5,
+        "value": "[\"High\"]",
+        "slaPeriodType": 0,
+        "slaPeriod": 10.0,
+        "criticalPeriodType": 0,
+        "criticalPeriod": 5.0,
+        "environments": [
+            "podman-upgraded-legacy-002"
+        ],
+        "alertType": null,
+        "values": [
+            "High"
+        ]
+    },
+    {
+        "id": 5,
+        "valueType": 2,
+        "value": "[\"Access Disabled Accounts\"]",
+        "slaPeriodType": 0,
+        "slaPeriod": 11.0,
+        "criticalPeriodType": 0,
+        "criticalPeriod": 5.5,
+        "environments": [
+            "Default Environment"
+        ],
+        "alertType": 1,
+        "values": [
+            "Access Disabled Accounts"
+        ]
+    }
+]
