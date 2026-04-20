@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "entityIdentifier": "Podman upgraded legacy 011",
+        "entityType": "*",
+        "elementType": 0,
+        "scope": 2,
+        "environments": [
+            "Default Environment",
+            "podman-upgraded-legacy-001",
+            "podman-upgraded-legacy-002"
+        ]
+    },
+    {
+        "id": 2,
+        "entityIdentifier": "Podman upgraded legacy 012",
+        "entityType": "ADDRESS",
+        "elementType": 0,
+        "scope": 3,
+        "environments": [
+            "Default Environment"
+        ]
+    },
+    {
+        "id": 3,
+        "entityIdentifier": "Podman upgraded legacy 013",
+        "entityType": "DATABASE",
+        "elementType": 0,
+        "scope": 2,
+        "environments": [
+            "podman-upgraded-legacy-001"
+        ]
+    }
+]
