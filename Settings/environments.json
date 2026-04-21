@@ -16,11 +16,69 @@
         "base64Image": null,
         "forDBMigration": false,
         "environmentAllowedForAllUsers": false,
-        "dynamicParameters": [],
+        "dynamicParameters": [
+            {
+                "value": "Podman DP-upgraded legacy 001",
+                "dynamicParameterId": 4,
+                "environmentId": 1
+            },
+            {
+                "value": "DP001, #DP002, $%#001, ()<>DP",
+                "dynamicParameterId": 5,
+                "environmentId": 1
+            },
+            {
+                "value": "",
+                "dynamicParameterId": 6,
+                "environmentId": 1
+            }
+        ],
         "properties": {},
         "isSystem": true,
         "aliases": [],
         "instanceUrl": null,
+        "dataAccessScopes": []
+    },
+    {
+        "id": 0,
+        "name": "new-existing001",
+        "description": "new-existing001",
+        "contactName": "test new",
+        "contactEmails": "testtest@gmail.com",
+        "contactEmailsList": null,
+        "contactPhone": "11123456789",
+        "allowedActions": null,
+        "remediationDurationInDays": 0,
+        "shouldAllowRemediationActions": false,
+        "shouldNotifyOnRemediationActions": false,
+        "retentionDurationInMonths": 3,
+        "retentionDurationInMonthsInternal": null,
+        "base64Image": "",
+        "forDBMigration": false,
+        "environmentAllowedForAllUsers": false,
+        "dynamicParameters": [
+            {
+                "value": "Podman DP-upgraded legacy 001",
+                "dynamicParameterId": 4,
+                "environmentId": 6
+            },
+            {
+                "value": "DP001, #DP002, $%#001, ()<>DP",
+                "dynamicParameterId": 5,
+                "environmentId": 6
+            },
+            {
+                "value": "",
+                "dynamicParameterId": 6,
+                "environmentId": 6
+            }
+        ],
+        "properties": {},
+        "isSystem": false,
+        "aliases": [
+            "yuio"
+        ],
+        "instanceUrl": "",
         "dataAccessScopes": []
     },
     {
@@ -40,7 +98,23 @@
         "base64Image": "",
         "forDBMigration": false,
         "environmentAllowedForAllUsers": false,
-        "dynamicParameters": [],
+        "dynamicParameters": [
+            {
+                "value": "Podman DP-upgraded legacy 001",
+                "dynamicParameterId": 4,
+                "environmentId": 4
+            },
+            {
+                "value": "DP001, #DP002, $%#001, ()<>DP",
+                "dynamicParameterId": 5,
+                "environmentId": 4
+            },
+            {
+                "value": "",
+                "dynamicParameterId": 6,
+                "environmentId": 4
+            }
+        ],
         "properties": {},
         "isSystem": false,
         "aliases": [
@@ -66,7 +140,23 @@
         "base64Image": "",
         "forDBMigration": false,
         "environmentAllowedForAllUsers": false,
-        "dynamicParameters": [],
+        "dynamicParameters": [
+            {
+                "value": "Podman DP-upgraded legacy 001",
+                "dynamicParameterId": 4,
+                "environmentId": 5
+            },
+            {
+                "value": "DP001, #DP002, $%#001, ()<>DP",
+                "dynamicParameterId": 5,
+                "environmentId": 5
+            },
+            {
+                "value": "",
+                "dynamicParameterId": 6,
+                "environmentId": 5
+            }
+        ],
         "properties": {},
         "isSystem": false,
         "aliases": [
