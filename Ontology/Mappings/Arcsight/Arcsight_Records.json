@@ -9,5 +9,16 @@
         "mappingStatus": null,
         "changeSource": "IngestedAlert",
         "exampleEventFields": []
+    },
+    {
+        "id": 0,
+        "source": "Arcsight",
+        "familyName": "Default",
+        "familyId": 0,
+        "product": null,
+        "eventName": null,
+        "mappingStatus": null,
+        "changeSource": "ChangeSourceUnspecified",
+        "exampleEventFields": []
     }
 ]

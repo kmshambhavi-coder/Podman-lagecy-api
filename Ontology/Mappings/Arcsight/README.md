@@ -2,3 +2,4 @@
 |Product|Event Name|Visual Family|
 |-------|----------|-------------|
 |Phishing email detector|Email check|MailRelayOrTAP|
+|None|None|Default|
