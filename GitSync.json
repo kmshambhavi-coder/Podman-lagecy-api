@@ -8,7 +8,9 @@
         "Visual Family": {
             "AV_HBGR": "Readme"
         },
-        "Playbook": {},
+        "Playbook": {
+            "test playbook": "addon"
+        },
         "Connector": {
             "Crowdstrike - Alerts Connector": "Readme"
         },
