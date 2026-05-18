@@ -9,8 +9,8 @@
 ## Playbooks
 |Name|Description|
 |----|-----------|
-|New Block|An embedded workflow that can receive inputs and return an output.|
-|New Playbook|Your all-in-one media management solution: store, search, and collaborate on photos, video, and design files in one centralized hub.|
+|first default folder block|An embedded workflow that can receive inputs and return an output.|
+|New folder Playbook|Test description|
 
 
 ## Visual Families
